@@ -1,5 +1,6 @@
 package com.atguigu.gmall190218.mock.util;
 
+
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
