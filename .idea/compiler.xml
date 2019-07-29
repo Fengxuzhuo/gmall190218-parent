@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dw-chart" />
+        <module name="gmall190218-canal" />
         <module name="gmall190218-common" />
         <module name="gmall190218-logger" />
         <module name="gmall190218-mock" />

@@ -7,6 +7,7 @@
       <w>appstore</w>
       <w>atguigu</w>
       <w>baidu</w>
+      <w>datas</w>
       <w>dstream</w>
       <w>evid</w>
       <w>gmall</w>
@@ -28,11 +29,13 @@
       <w>sismember</w>
       <w>smembers</w>
       <w>startuplog</w>
+      <w>tdate</w>
       <w>tencent</w>
       <w>wandoujia</w>
       <w>xcontroller</w>
       <w>xiaomi</w>
       <w>xxxxxx</w>
+      <w>ydate</w>
     </words>
   </dictionary>
 </component>
